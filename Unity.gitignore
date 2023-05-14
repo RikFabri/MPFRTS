@@ -9,9 +9,6 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/[Bb]uild1/
-/[Bb]uild2/
-/[Bb]uild3/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
